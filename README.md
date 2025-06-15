@@ -1,10 +1,15 @@
 # sentiment-analysis
 Introduction
+
+
 In the era of digital communication, people express their thoughts and opinions across various platforms such as social media, product reviews, and blogs. With the exponential growth of user-generated content, it becomes increasingly challenging to manually interpret and extract useful insights from large volumes of textual data. Sentiment Analysis provides an effective solution by using Natural Language Processing (NLP) techniques to automatically identify and categorize opinions expressed in text as positive, negative, or neutral.
 
 This project aims to build a Sentiment Analysis System that processes textual data and determines the sentiment behind user-generated content. By analyzing the underlying emotions and opinions within the text, this system can be applied in areas such as customer feedback analysis, brand monitoring, and social media trend tracking.
 
+
 Technologies and Tools Used
+
+
 This project leverages the following tools and technologies:
 
 Python: Core programming language used for text processing, data analysis, and model development
@@ -24,6 +29,8 @@ Matplotlib/Seaborn: For data visualization, exploration, and performance analysi
 Jupyter Notebook: For writing, testing, and visualizing code in an interactive environment
 
 Data Descriptions
+
+
 All the features in the dataset used for sentiment analysis are defined as follows:
 
 text : The user-generated content (e.g., a tweet, product review, or comment) to be analyzed for sentiment
